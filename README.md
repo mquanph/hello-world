@@ -1,2 +1,2 @@
 # hello-world
-dummy site for test
+Hi. This is a dummy site for test.
